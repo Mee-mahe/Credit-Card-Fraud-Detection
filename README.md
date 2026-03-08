@@ -35,26 +35,3 @@ Precision
 Recall  
 F1 Score
 
-## Project Structure
-
-Credit-Card-Fraud-Detection
-│
-├── data
-├── notebook
-├── src
-├── requirements.txt
-└── README.md
-
-## How to Run
-
-Clone the repository
-
-git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
-
-Install dependencies
-
-pip install -r requirements.txt
-
-Run the model
-
-python src/fraud_model.py
